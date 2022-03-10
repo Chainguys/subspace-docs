@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: "Introduction"
 ---
-# 👋Welcome
+# 👋Welcome.
 The Subspace Network is an ambitious layer zero protocol which is the first scalable, secure, & decentralized infrastructure layer for the Web3 ecosystems. 
 
 ## ❓ Learn About the Subspace Network 
